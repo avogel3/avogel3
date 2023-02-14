@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hey there 👋
+
+I'm Andrew Vogel, Software Developer [@Hashrocket](https://github.com/Hashrocket).
+
+My favorite technologies include **Ruby**, **Rails**, **React**, **React Native**, **Postgres**, and **Elixir**.
+
+Outside of programming, I enjoy -  
+- Working out 💪
+- Hanging with friends 🤝
+- Building mechanical keyboards ⌨️
+- Snapping pics 📸
+- Tinkering with home automation 🏠 💻
+- Apex Legends (lol) 👹
+
+Contact deets are in the sidebar
+
 
 <!--
 **avogel3/avogel3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

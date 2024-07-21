@@ -10,6 +10,7 @@ Outside of programming, I enjoy -
 - Building mechanical keyboards ⌨️
 - Snapping pics 📸
 - Tinkering with home automation 🏠 💻
+- Trying new Coffee shops ☕️
 - Apex Legends (lol) 👹
 
 Contact deets are in the sidebar

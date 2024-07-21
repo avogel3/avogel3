@@ -2,7 +2,7 @@
 
 I'm Andrew Vogel, Software Developer [@Hashrocket](https://github.com/Hashrocket).
 
-My favorite technologies include **Ruby**, **Rails**, **React**, **React Native**, **Postgres**, and **Elixir**.
+My favorite technologies include **Elixir**, **Phoenix**, **Ruby**, **Rails**, **React**, **React Native**, and **Postgres**.
 
 Outside of programming, I enjoy -  
 - Working out 💪
